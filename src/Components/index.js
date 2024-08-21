@@ -1,11 +1,11 @@
-import { CalculateKcal } from "./CalculateKcal/CalculateKcal";
-import { CaloriesLog } from "./CaloriesLog/CaloriesLog";
-import { FoodCalories } from "./FoodCalories/FoodCalories";
+import { Calculator } from "./Calculator/Calculator";
+import { Food } from "./Food/Food";
+import { KcalLog } from "./KcalLog/KcalLog";
 import { Meals } from "./Meals/Meals";
 
 export {
-    CalculateKcal,
-    CaloriesLog,
-    FoodCalories,
+    Calculator,
+    Food,
+    KcalLog,
     Meals
 }
